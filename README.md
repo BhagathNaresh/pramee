@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://fajarghifar.github.io/happybirthday/)
+[Demo]https://bhagathnaresh.github.io/pramee/
 
 ## 🚀 How to Use
 
@@ -8,7 +8,7 @@
 
     ```bash
     # Clone this repository or download it
-    $ git clone https://github.com/fajarghifar/happybirthday
+    $ git clone [https://bhagathnaresh.github.io/pramee/]
 
     # Go into the repository
     $ cd happybirthday
@@ -33,7 +33,5 @@ If you have any ideas to make it more interesting, please submit a pull request 
 
 ### [MIT](LICENSE)
 
-> Github [@fajarghifar](https://github.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Youtube [@fajarghifar](https://www.youtube.com/@fajarghifar/) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Linkedin [@fajarghifar](https://www.linkedin.com/in/fajarghifar/)
+> Github [@pramee](https://bhagathnaresh.github.io/pramee/) &nbsp;&middot;&nbsp;
+
